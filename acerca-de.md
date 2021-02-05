@@ -11,5 +11,5 @@ Some information about you!
 Nope.
 
 ### Contact me
-
-#[email@domain.com](mailto:email@domain.com)
+Nope.
+<!--[email@domain.com](mailto:email@domain.com)-->
