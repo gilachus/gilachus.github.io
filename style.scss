@@ -18,8 +18,9 @@ html {
 }
 
 body {
-	background: $white;
-  /*font: 18px/1.4 $helvetica;*/
+  background: rgb(1,0,20);
+  background: linear-gradient(190deg, rgba(1,0,20,1) 0%, rgba(48,9,121,1) 35%, rgba(116,56,56,1) 100%); /*$white;
+  font: 18px/1.4 $helvetica;*/
   /*color: $darkGray;*/
 }
 
