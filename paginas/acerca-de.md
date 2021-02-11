@@ -4,7 +4,7 @@ title: Acerca de
 permalink: /acerca-de/
 ---
 
-Some information about you!
+🇨🇴 Colombia! 
 
 ### More Information
 
