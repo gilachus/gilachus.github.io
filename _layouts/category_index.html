@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div class="neu">
+    <h3>{{ page.total_posts }}
+    post{%if page.total_post !=1 %}s{% endif %}
+    en la categoria {{ page.title }}
+    </h3>
+    <div class="posts">
+        {% for post in page.posts %}
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        {% endfor %}
+    </div>
+</div>
+
+

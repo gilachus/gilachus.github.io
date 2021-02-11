@@ -1,0 +1,16 @@
+I"k<div class="posts">
+  
+    <article class="post neu">
+
+      <h1><a href="/pip-install/">pip install</a></h1>
+
+      <div class="entry">
+        <p>Puedes instalar una o mas dependencias en un misma linea separando con espacio, por ejemplo Django y Pillow.</p>
+
+      </div>
+
+      <a href="/pip-install/" class="read-more">Leer más</a>
+    </article>
+  
+</div>
+:ET

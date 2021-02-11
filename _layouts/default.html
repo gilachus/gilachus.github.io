@@ -25,9 +25,9 @@
             <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
             <p class="site-description">{{ site.description }}</p>
           </div>
-
+ 
           <nav>
-            <a href="{{ site.baseurl }}/">Microverso</a>
+            <a href="{{ site.baseurl }}/microverso">Microverso</a>
             <a href="{{ site.baseurl }}/acerca-de">Acerca de</a>
           </nav>
         </header>
@@ -38,11 +38,14 @@
       {{ content }}
     </div>
 
-    <div class="wrapper-footer">
+    <div class="wrapper-footer neu">
       <div class="container">
         <footer class="footer">
-          {% include svg-icons.html %}
-          <span>Background <a href="https://unsplash.com/@designhorf?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Ferenc Horvath</a> on <a href="https://unsplash.com/s/photos/galaxy?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+          <div class="row align-bottom">
+            <div class="col"><em>Jekyll</em></div>
+            <div class="col">{% include svg-icons.html %}</div>
+            <div class="col"><em> Background <a href="https://unsplash.com/@designhorf?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Ferenc Horvath</a></em></div>
+          </div>         
         </footer>
       </div>
     </div>
