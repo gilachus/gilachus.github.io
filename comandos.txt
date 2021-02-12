@@ -1,0 +1,3 @@
+![_config.yml]({{ site.baseurl }}/images/config.png)
+
+Copy-Item -Path 'D:\\Master Pro Elite\\gilachus.github.io\\_site\\category'  'D:\\Master Pro Elite\\gilachus.github.io' -Recurse -force
