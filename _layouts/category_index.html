@@ -8,9 +8,13 @@ layout: default
     en la categoria {{ page.title }}
     </h3>
     <div class="posts">
+        <ul>
         {% for post in page.posts %}
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <li>
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </li>
         {% endfor %}
+        </ul>
     </div>
 </div>
 

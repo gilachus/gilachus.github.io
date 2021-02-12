@@ -1,0 +1,12 @@
+I"Ú<p>Para matener organizadas la dependencias y sus versiones es bueno crear un entorno virtual por proyecto.</p>
+
+<p><code class="language-plaintext highlighter-rouge">python -m venv mi-entorno-virtual</code></p>
+
+<p>Para activarlo.</p>
+
+<p><code class="language-plaintext highlighter-rouge">mi-entorno-virtual\Scripts\activate</code></p>
+
+<p><small>
+<a href="https://docs.python.org/es/3/tutorial/venv.html#creating-virtual-environments">Entornos Virtuales</a>
+</small></p>
+:ET
