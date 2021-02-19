@@ -14,5 +14,5 @@ Para activarlo.
 `mi-entorno-virtual\Scripts\activate`
 
 <small>
-[Entornos Virtuales](https://docs.python.org/es/3/tutorial/venv.html#creating-virtual-environments)
+[Creando Entornos Virtuales](https://docs.python.org/es/3/tutorial/venv.html#creating-virtual-environments)
 </small>

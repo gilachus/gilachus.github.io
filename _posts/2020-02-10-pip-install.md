@@ -1,12 +1,12 @@
 ---
 layout: post
-title: pip install
+title: instalar paquetes
 categories:
  - python
  - django
 ---
 
-Puedes instalar una o mas dependencias en un misma linea separando con espacio, por ejemplo Django y Pillow.
+Puedes instalar uno o mas paquetes en un misma linea separando con espacio, por ejemplo Django y Pillow.
 
 `pip install Django Pillow`
 
